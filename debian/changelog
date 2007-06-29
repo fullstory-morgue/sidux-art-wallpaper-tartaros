@@ -1,0 +1,24 @@
+sidux-art-wallpaper-tartaros (0.1) unstable; urgency=low
+
+  * Fork from sidux-wallpaper.
+
+ -- Kel Modderman <kel@otaku42.de>  Fri, 29 Jun 2007 21:28:05 +1000
+
+sidux-art-wallpaper (0.0) unstable; urgency=low
+
+  [ Bernard Gray ]
+  * Initial Release.
+  * add sidux.png and sidux-wide.png based on cathbard's sidux-debian art
+  * add source xcf and license
+  * clean up debian/
+  * write debian/control file
+  * add debian/install
+  * remove unneeded extra license info
+  * tested package build and install
+  * lintian tested 
+  
+  [ Stefan Lippers-Hollmann ]
+  * remove empty depends.
+  * add myself as uploader.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 25 Apr 2007 13:42:03 +0200
