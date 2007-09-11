@@ -5,6 +5,8 @@ Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>, Kel Modderman <kel@otaku42.de>
 Build-Depends: cdbs, debhelper (>= 5)
 Standards-Version: 3.7.2
+XS-Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-wallpaper-tartaros/trunk
+XS-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper-tartaros/trunk/
 
 Package: sidux-art-wallpaper-tartaros
 Architecture: all
