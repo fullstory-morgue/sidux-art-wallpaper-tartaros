@@ -1,10 +1,9 @@
-sidux-art-wallpaper-tartaros (0.2) UNRELEASED; urgency=low
+sidux-art-wallpaper-tartaros (0.2) unstable; urgency=low
 
-  * NOT RELEASED YET
   * add VCS control headers.
   * update syntax for Vcs headers in debian/control
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Oct 2007 14:48:04 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Oct 2007 19:24:05 +0200
 
 sidux-art-wallpaper-tartaros (0.1) unstable; urgency=low
 
