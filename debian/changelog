@@ -1,8 +1,8 @@
-sidux-art-wallpaper-tartaros (0.6) UNRELEASED; urgency=low
+sidux-art-wallpaper-tartaros (0.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * refine dependency relations.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 00:35:06 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 10 Mar 2008 01:15:38 +0100
 
 sidux-art-wallpaper-tartaros (0.5) unstable; urgency=low
 
