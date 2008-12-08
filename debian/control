@@ -10,6 +10,7 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper-tartaros/t
 
 Package: sidux-art-wallpaper-tartaros
 Architecture: all
+Depends: ${misc:Depends}
 Provides: sidux-art-wallpaper-theme
 Conflicts: sidux-art-wallpaper (<= 0.0)
 Description: sidux "tartaros" wallpaper 
