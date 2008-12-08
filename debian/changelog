@@ -1,9 +1,8 @@
-sidux-art-wallpaper-tartaros (0.9) UNRELEASED; urgency=low
+sidux-art-wallpaper-tartaros (0.9) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 03:02:31 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:46:30 +0100
 
 sidux-art-wallpaper-tartaros (0.8) unstable; urgency=low
 
