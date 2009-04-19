@@ -1,8 +1,9 @@
-sidux-art-wallpaper-tartaros (0.11) UNRELEASED; urgency=low
+sidux-art-wallpaper-tartaros (0.11) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHAN PACKAGE.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 20:01:57 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 19 Apr 2009 14:04:06 +0200
 
 sidux-art-wallpaper-tartaros (0.10) unstable; urgency=low
 
